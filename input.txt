@@ -1,0 +1,17 @@
+Sports Complex Siwaka 450
+Siwaka Phase 1 Entrance A 10
+Siwaka Phase 1 Entrance B 380
+Phase 1 Entrance A Mada 850
+Phase 1 Entrance A Phase 1 Entrance B 100
+Mada J1 200
+Mada Parking Lot 700
+Phase 1 Entrance B Phase2 112
+Phase 1 Entrance B STC 50
+Phase2  Phase 3 500
+Phase2 J1 600
+Phase2 STC 50
+STC Parking Lot 250
+Phase 3 Parking Lot 350
+Parking Lot 0
+END OF INPUT
+
